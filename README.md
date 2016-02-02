@@ -2,10 +2,10 @@
 
 ## Setting up
 
-## Install nodejs
+1. Install nodejs
 
-## git clone repo
+2. git clone repo
 
-## npm install
+3. npm install
 
-## node app.js
+4. node app.js
